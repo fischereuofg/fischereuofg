@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fischereuofg
 - 👀 I’m interested in programming and history...
-- 🌱 I’m currently learning how to write C.
+- 🌱 I’m currently learning how to write C and work with Pygame.
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me ethanfischer360@gmail.com(personal) or fischere@uoguelph.ca(university)
 - 😄 Pronouns: He/him.
